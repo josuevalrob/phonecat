@@ -6,5 +6,16 @@ import './index.css';
 import store from './store';
 
 import App from './App';
+
+import { Router } from 'react-router'
+import createBrowserHistory from 'history/createBrowserHistory'
 // ReactDOM.render(<App />, document.getElementById('root'));
-ReactDOM.render(<Provider store={store}><App /></Provider>, document.getElementById('root'));
+const history = createBrowserHistory()
+
+ReactDOM.render(
+  <Provider store={store}>
+    <Router history={history}>
+      <App />
+    </Router>
+  </Provider>
+  , document.getElementById('root'));

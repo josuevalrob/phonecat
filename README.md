@@ -5,6 +5,7 @@ App made with react-create-app.
 
 ## Starting: 
 $ npm install
+
 $ npm start
 
 ## Server

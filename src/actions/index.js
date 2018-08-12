@@ -1,5 +1,6 @@
+import {FETCH_PHONES, changeColor} from './types';
+
 import axios from 'axios';
-import {FETCH_PHONES} from './types';
 
 export function fetchPhones (){
 console.log('fetching phones');
@@ -19,13 +20,5 @@ console.log('fetching');
       .then((response)=>{
         dispatch(changeColor("#"+response.data.new_color))//We need to tell it what to return. everything: response.data
       })
-  }
-}
-
-export function changeColor (color){
-// This will help our reducers.
-   return {
-    type:"CHANGE_COLOR",
-    color:color
   }
 }

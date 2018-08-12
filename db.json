@@ -6,7 +6,8 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Proin eget tortor risus. Donec sollicitudin molestie malesuada. Cras ultricies ligula sed magna dictum porta. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.",
       "color": "ddd9b1",
       "price": "345,00 €",
-      "image": "http://mihomovil.com/wp-content/uploads/2018/04/IP7-MAIN-X.jpg"
+      "image": "http://mihomovil.com/wp-content/uploads/2018/04/IP7-MAIN-X.jpg",
+      "status": "Disponible"
 
     },
     {
@@ -15,7 +16,8 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Proin eget tortor risus. Donec sollicitudin molestie malesuada. Cras ultricies ligula sed magna dictum porta. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.",
       "color": "383737",
       "price": "123,00 €",
-      "image": "http://mihomovil.com/wp-content/uploads/2018/04/00157063411243009_1__640x640-1-1.jpg"
+      "image": "http://mihomovil.com/wp-content/uploads/2018/04/00157063411243009_1__640x640-1-1.jpg",
+      "status": "Acabado"
 
     },
     {
@@ -24,7 +26,8 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Proin eget tortor risus. Donec sollicitudin molestie malesuada. Cras ultricies ligula sed magna dictum porta. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.",
       "color": "a05076",
       "price": "345,00 €",
-      "image": "http://mihomovil.com/wp-content/uploads/2018/04/NTETMO0838_1.jpg"
+      "image": "http://mihomovil.com/wp-content/uploads/2018/04/NTETMO0838_1.jpg",
+      "status": "Disponible"
 
     },
     {
@@ -33,7 +36,8 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Proin eget tortor risus. Donec sollicitudin molestie malesuada. Cras ultricies ligula sed magna dictum porta. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.",
       "color": "f9f4e7",
       "price": "234,00 €",
-      "image": "http://mihomovil.com/wp-content/uploads/2018/04/smartphone-rugerizado-trekker-m1-core.jpg"
+      "image": "http://mihomovil.com/wp-content/uploads/2018/04/smartphone-rugerizado-trekker-m1-core.jpg",
+      "status": "Acabado"
 
     },
     {
@@ -42,7 +46,8 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Proin eget tortor risus. Donec sollicitudin molestie malesuada. Cras ultricies ligula sed magna dictum porta. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.",
       "color": "c0a590",
       "price": "321,00 €",
-      "image": "http://mihomovil.com/wp-content/uploads/2018/05/46262812c.jpg"
+      "image": "http://mihomovil.com/wp-content/uploads/2018/05/46262812c.jpg",
+      "status": "Quedan 10!"
 
     }
   ],

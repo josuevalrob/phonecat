@@ -1,6 +1,6 @@
 import React from 'react';
 import {connect} from 'react-redux';
-import * as actionCreators from '../actions';
+import {loadColor as actionCreators} from '../actions';
 import Box from '../component/box.js';
 
 class BoxCon extends React.Component {
@@ -12,7 +12,9 @@ class BoxCon extends React.Component {
 }
 
 const mapStateToProps = (state)=> {
-  return state
+  // return state
+  console.log(state.phones.color);
+ return state.phones.color
 }
 
 export default connect (mapStateToProps, actionCreators)(BoxCon);
